@@ -15,7 +15,7 @@
 
 ### Running ansible-playbook Using Container
 
-This is a sample example, where I assume all Ansible code is in a `./playbooks` directory on docker host.
+This is a simple example, where I assume all Ansible code is in a `./playbooks` directory on docker host.
 
 ```
 docker pull anmolsharmaa/ansible:2.9
